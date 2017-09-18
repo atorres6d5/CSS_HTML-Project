@@ -1,15 +1,30 @@
 html{
-  font-family: "adriane", Georga;
+  font-family: 'Amiko';
+}
+body{
+  background-color: gray;
+  border: 8px solid black;
+
 }
 
 nav{
-  padding-top: 3rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
+div div h3{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+section div h6 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-left: 8rem;
 
-h6 .col-2 .justify-content-center{
-  padding-top: 7rem;
 }
 
 section .container{
   padding-left: 5rem;
+}
+section div img{
+  height: 475px;
 }
