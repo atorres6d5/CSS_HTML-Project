@@ -1,3 +1,15 @@
+html{
+  font-family: "adriane", Georga;
+}
+
 nav{
   padding-top: 3rem;
+}
+
+h6 .col-2 .justify-content-center{
+  padding-top: 7rem;
+}
+
+section .container{
+  padding-left: 5rem;
 }
